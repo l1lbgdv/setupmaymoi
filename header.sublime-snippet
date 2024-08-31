@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+#include <bits/stdc++.h>
+#pragma GCC optimize("Ofast")
+#pragma GCC target("avx,avx2,fma")
+#pragma GCC optimization("unroll-loops")
+using namespace std;
+# define ll  long long int
+# define ld  long double
+# define pb push_back
+# define pp pop_back
+# define st string
+# define ins insert
+# define endl "\n"
+# define fi first
+# define se second
+# define mp make_pair
+# define fast ios_base::sync_with_stdio(0); cin.tie(0);cout.tie(0)
+int main(){
+	fast;
+	
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>head()</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope> 
+</snippet>
