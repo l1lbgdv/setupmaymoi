@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+////////////////////////////////////////
+//                                    //
+//    _   _     _ _        _    ____  //
+//   / | | |__ (_) |_     / \  / ___| //
+//   | | | '_ \| | __|   / _ \| |     //
+//   | | | | | | | |_   / ___ \ |___  //
+//   |_| |_| |_|_|\__| /_/   \_\____| //
+//                                    //
+////////////////////////////////////////
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>doemAC()</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.c++</scope>
+</snippet>
