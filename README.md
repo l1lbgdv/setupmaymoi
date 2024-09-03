@@ -72,13 +72,12 @@ Sau khi cài đặt xong GCC, bạn có thể biên dịch các chương trình 
 
 ### 3.1. Tạo File Mã Nguồn
 
-Tạo một file mã nguồn đơn giản, ví dụ `hello.c`:
+Tạo một file mã nguồn đơn giản, ví dụ `hello.cpp`:
 
-```c
-#include <stdio.h>
-
+```c++
+#include<bits/stdc++.h>
 int main() {
-    printf("Hello, World!\n");
+    std::cout<<"Hello World!";
     return 0;
 }
 ```
@@ -88,7 +87,7 @@ int main() {
 Sử dụng lệnh GCC để biên dịch:
 
 ```bash
-gcc -o hello hello.c
+gcc -o hello hello.cpp
 ```
 
 ### 3.3. Chạy Chương Trình
