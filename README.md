@@ -102,7 +102,7 @@ Nếu chương trình in ra "Hello, World!" thì bạn đã biên dịch thành 
 
 ## 4. Tổng Kết
 
-Bạn đã cài đặt thành công Git Bash và GCC trên Windows, cũng như biên dịch và chạy chương trình C đơn giản. Nếu gặp bất kỳ vấn đề nào, hãy kiểm tra lại các bước hoặc tìm kiếm sự trợ giúp từ cộng đồng.
+Bạn đã cài đặt thành công Git Bash và GCC trên Windows, cũng như biên dịch và chạy chương trình C++ đơn giản. Nếu gặp bất kỳ vấn đề nào, hãy kiểm tra lại các bước hoặc tìm kiếm sự trợ giúp từ cộng đồng.
 
 ## 5. Cấu Hình Build System Cho C++
 
@@ -131,7 +131,7 @@ Sublime Text cung cấp hệ thống build để cho phép người dùng chạy
 
 ### 5.2. Mô Tả
 
-Đoạn mã trên được sử dụng để lấy input từ file `inputf.in` và ghi kết quả ra file `outputf.out`. Đây là cách thiết lập đơn giản để bạn có thể biên dịch và chạy các chương trình C++ trực tiếp từ Sublime Text với các file input/output.
+Đoạn mã trên được sử dụng để lấy input từ file `inputf.in` và ghi kết quả ra file `outputf.out`. Đây là cách thiết lập đơn giản để bạn có thể biên dịch và chạy các chương trình C++ trực tiếp từ Sublime Text với các file input/output. (inputf.in và outputf.out có thể thay đổi theo người code ví dụ in.txt và ou.txt)
 
 ## 6. Những Packages Sublime Đang Dùng
 
