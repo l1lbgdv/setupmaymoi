@@ -7,6 +7,7 @@
 using namespace std;
 # define ll  long long int
 # define ld  long double
+# define all((a)) (a).begin(),(a).end()
 # define pb push_back
 # define pp pop_back
 # define st string
