@@ -131,7 +131,7 @@ Sublime Text cung cấp hệ thống build để cho phép người dùng chạy
 
 ### 5.2. Mô Tả
 
-Đoạn mã trên được sử dụng để lấy input từ file `inputf.in` và ghi kết quả ra file `outputf.out`. Đây là cách thiết lập đơn giản để bạn có thể biên dịch và chạy các chương trình C++ trực tiếp từ Sublime Text với các file input/output. (inputf.in và outputf.out có thể thay đổi theo người code ví dụ in.txt và ou.txt)
+Đoạn mã trên được sử dụng để lấy input từ file `inputf.in` và ghi kết quả ra file `outputf.out`. Đây là cách thiết lập đơn giản để bạn có thể biên dịch và chạy các chương trình C++ trực tiếp từ Sublime Text với các file input/output. (`inputf.in` và `outputf.out` có thể thay đổi theo người code ví dụ `in.txt` và `ou.txt`)
 
 ## 6. Những Packages Sublime Đang Dùng
 
