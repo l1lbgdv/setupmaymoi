@@ -35,7 +35,7 @@ GCC (GNU Compiler Collection) là một bộ biên dịch phổ biến cho nhi�
 
 ### 2.1. Bước 1: Tải MinGW-w64
 
-- Truy cập trang web: [https://sourceforge.net/projects/mingw-w64/](https://sourceforge.net/projects/mingw-w64/)
+- Truy cập trang web: [https://sourceforge.net/projects/mingw-w64/](https://sourceforge.net/projects/mingw/)
 - Nhấn vào nút **Download** để tải về bản cài đặt MinGW-w64.
 
 ### 2.2. Bước 2: Cài Đặt MinGW-w64
